@@ -1,8 +1,8 @@
 ## Hi there 👋
 ___
 ```
-- 🔭 I'm currently working on Spring Boot framework and Scala
-- 💬 Ask me about Blockchain, Docker, Kubernetes, Istio, Java and Kafka
+>- 🔭 I'm currently working on Spring Boot framework and Scala
+>- 💬 Ask me about Blockchain, Docker, Kubernetes, Istio, Java and Kafka
 ```
 ___
 <!--
