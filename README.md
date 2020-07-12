@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Hi there 👋
+___
+```
+- 🔭 I'm currently working on Spring Boot framework and Scala
+- 💬 Ask me about Blockchain, Docker, Kubernetes, Istio, Java and Kafka
+```
+___
 <!--
 **subhashmeena/subhashmeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
